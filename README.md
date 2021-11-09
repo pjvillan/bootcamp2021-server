@@ -16,3 +16,6 @@ $ npm run start
 This is a public project, which means that anyone can use it for their work.
 
 Copyright (c) 2021 Navit Choudhary
+
+## GIT practice
+Adding a new line for git practice
